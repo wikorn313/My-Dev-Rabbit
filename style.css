@@ -44,6 +44,11 @@ html, body {
     display: inline-block;
 }
 
+.button:hover {
+    background-color: #6a6a6a;
+    color: #fff;
+}
+
 .bottom-footer {
     background-color: gray;
     padding: 20px;
